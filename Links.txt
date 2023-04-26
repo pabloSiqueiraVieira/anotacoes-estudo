@@ -12,3 +12,10 @@ Criando seu Primeiro Repositório
 no GitHub Para Compartilhar Seu
 Progresso: https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view
 
+Básicos do Javascript:
+https://github.com/digitalinnovationone/javascript-developer-m1
+
+Básicos .Net e C# by Leonardo Buta
+curso 01: https://drive.google.com/file/d/1YBybOdT9lUC8-81e8xCY-MW7-UdKOy_j/view
+curso 02: https://drive.google.com/file/d/1lqs6ArFrggBgaSUCoAgnHnUHKghhlH-O/view
+curso 03: https://drive.google.com/file/d/1YLYvIKpMs4d0P2YoiMsoo7aUdheX6g5k/view
